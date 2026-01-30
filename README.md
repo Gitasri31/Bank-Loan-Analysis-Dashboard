@@ -27,7 +27,7 @@ An interactive dashboard was built to evaluate loan performance, borrower behavi
 ---
 
 ## 📷 Dashboard Preview
-![Bank Loan Dashboard](dashboard.png)
+![Bank Loan Dashboard](Dashboard.png)
 
 ---
 
