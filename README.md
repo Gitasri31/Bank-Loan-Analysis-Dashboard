@@ -1,9 +1,9 @@
 # 📊 Bank Loan Applications Analysis Dashboard (Excel)
 
-![Excel](https://img.shields.io/badge/Microsoft-Excel-green)
-![Project Type](https://img.shields.io/badge/Project-Data%20Analysis-blue)
-![Dataset](https://img.shields.io/badge/Dataset-38K%2B%20Records-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+[![Excel](https://img.shields.io/badge/Microsoft-Excel-green)](https://www.microsoft.com/excel)
+[![Project](https://img.shields.io/badge/Project-Data%20Analysis-blue)](#)
+[![Dataset](https://img.shields.io/badge/Dataset-38K%2B%20Records-orange)](Dataset.csv)
+[![Status](https://img.shields.io/badge/Status-Completed-success)](#)
 
 
 ## 🔍 Project Overview
